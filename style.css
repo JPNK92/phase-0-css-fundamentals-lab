@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+/*aligning header at the center*/
+h1 {text-align: center;
+}
+
+/*center image */
+img {display: block;
+margin: 0 auto 0 auto;
+}
+
+/*jazzing up nav links */
+nav { padding-left: 10x;
+padding-right: 10px;
+background-color: grey;
+text-align: center;
+display: block;
+}
+/*image caption */
+image{font-size: xx-small;
+align-content: center;
+}
+/*align figure caption text at the center*/
+figcaption {text-align: center;
+}
+
+/*alligning the bottom block*/
+div {background-color: red;
+text-align: center;
+width: 25%;
+display: block;
+float: left;
+<ul> position: relative;
+}
+
+/*update text block*/
+section >p {text-align: center;
+width: 800px;
+margin: auto;
+margin-bottom: 20px;
+}
+
